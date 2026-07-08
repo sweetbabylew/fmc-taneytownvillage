@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1011" height="1050" viewBox="0 0 1011 1050" preserveAspectRatio="xMidYMid meet" role="img" aria-label="Taneytown Village two-bedroom townhouse, upper level floor plan">
+<defs><style>
+    .fp{fill:#FFFFFF}
+    .w{fill:none;stroke:#2C3E2D;stroke-width:7;stroke-linecap:butt}
+    .wo{fill:none;stroke:#2C3E2D;stroke-width:10;stroke-linecap:butt}
+    .d{fill:none;stroke:#7C9880;stroke-width:4;stroke-dasharray:5 6}
+    .arc{fill:none;stroke:#5E7D63;stroke-width:3}
+    .win{fill:none;stroke:#2C3E2D;stroke-width:2.5}
+    .rm{fill:#22331F;font-family:'Helvetica Neue',Arial,sans-serif;font-size:25px;font-style:italic;text-anchor:middle}
+    .cl{fill:#4A5C4D;font-family:'Helvetica Neue',Arial,sans-serif;font-size:18px;font-style:italic;text-anchor:middle}
+    .sm{fill:#4A5C4D;font-family:'Helvetica Neue',Arial,sans-serif;font-size:14px;font-style:italic;text-anchor:middle}
+  </style></defs>
+<rect class="fp" x="28" y="28" width="953" height="992"/>
+<path class="w" d="M42,41 V61 M42,116 V493 M42,544 V953 M397,180 V229 M397,236 V363 M397,510 V535 M561,28 V45 M561,50 V187 M561,204 V373 M772,574 V1014 M394,199 H563 M408,368 H427 M542,368 H809 M52,522 H395 M408,522 H591 M712,522 H763 M28,535 H45 M48,535 H83 M104,535 H591 M712,535 H764"/>
+<path class="d" d="M42,64 V83 M42,514 V544 M397,32 V65 M397,299 V323 M397,360 V389 M397,508 V530 M561,47 V63 M772,458 V473 M772,522 V549 M772,554 V569 M392,368 H429 M946,368 H981 M29,522 H53 M378,522 H421 M570,522 H595 M734,522 H751 M35,535 H71 M102,535 H121 M761,535 H777"/>
+<path class="wo" d="M28,28 H981 V1020 H28 V28"/>
+<text class="rm" x="205" y="270">Bedroom</text>
+<text class="rm" x="330" y="755">Bedroom</text>
+<text class="rm" x="745" y="180">Bathroom</text>
+<text class="cl" x="680" y="445">Hallway</text>
+<text class="cl" x="485" y="125">Closet</text>
+<text class="cl" x="480" y="300">Closet</text>
+</svg>
