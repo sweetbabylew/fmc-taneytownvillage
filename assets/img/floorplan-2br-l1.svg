@@ -1,26 +1,30 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="976" height="1512" viewBox="0 0 976 1512" preserveAspectRatio="xMidYMid meet" role="img" aria-label="Taneytown Village two-bedroom townhouse, main level floor plan">
+<svg xmlns="http://www.w3.org/2000/svg" width="816" height="1295" viewBox="0 0 816 1295" preserveAspectRatio="xMidYMid meet" role="img" aria-label="Taneytown Village two-bedroom townhouse, main level floor plan">
 <defs><style>
     .fp{fill:#FFFFFF}
     .w{fill:none;stroke:#2C3E2D;stroke-width:7;stroke-linecap:butt}
     .wo{fill:none;stroke:#2C3E2D;stroke-width:10;stroke-linecap:butt}
-    .d{fill:none;stroke:#7C9880;stroke-width:4;stroke-dasharray:5 6}
+    .d{fill:none;stroke:#7C9880;stroke-width:2.5;stroke-dasharray:5 6}
     .arc{fill:none;stroke:#5E7D63;stroke-width:3}
     .win{fill:none;stroke:#2C3E2D;stroke-width:2.5}
+    .st{fill:none;stroke:#2C3E2D;stroke-width:2.5}
     .rm{fill:#22331F;font-family:'Helvetica Neue',Arial,sans-serif;font-size:25px;font-style:italic;text-anchor:middle}
     .cl{fill:#4A5C4D;font-family:'Helvetica Neue',Arial,sans-serif;font-size:18px;font-style:italic;text-anchor:middle}
     .sm{fill:#4A5C4D;font-family:'Helvetica Neue',Arial,sans-serif;font-size:14px;font-style:italic;text-anchor:middle}
   </style></defs>
-<rect class="fp" x="14" y="22" width="933" height="1483"/>
-<path class="w" d="M31,35 V143 M31,160 V178 M31,271 V398 M31,484 V506 M31,624 V654 M31,688 V731 M31,758 V777 M31,808 V1442 M31,1471 V1496 M172,22 V338 M172,501 V591 M172,742 V772 M190,22 V36 M190,204 V221 M190,511 V574 M190,758 V772 M190,1488 V1511 M935,35 V143 M935,654 V755 M935,758 V804 M935,808 V840 M935,844 V882 M935,884 V922 M935,942 V957 M935,962 V994 M935,1365 V1383 M935,1473 V1496 M13,35 H28 M72,35 H136 M170,35 H193 M383,35 H402 M414,35 H542 M568,35 H590 M810,35 H863 M938,35 H953 M13,501 H34 M46,501 H167 M171,501 H185 M939,501 H953 M13,760 H38 M42,760 H607 M758,760 H788 M804,760 H869 M13,943 H27 M754,943 H788 M806,943 H953 M13,1489 H27 M198,1489 H407 M939,1489 H953"/>
-<path class="d" d="M31,186 V206 M31,471 V487 M31,503 V521 M31,580 V602 M31,612 V626 M31,652 V676 M31,740 V761 M31,1444 V1471 M172,273 V290 M172,724 V758 M190,48 V62 M190,243 V275 M190,738 V761 M935,645 V659 M935,752 V770 M935,920 V946 M935,992 V1020 M935,1040 V1054 M935,1065 V1092 M935,1120 V1145 M935,1157 V1173 M935,1209 V1226 M935,1259 V1275 M935,1280 V1297 M935,1314 V1329 M935,1390 V1413 M935,1434 V1466 M935,1494 V1511 M52,35 H70 M153,35 H169 M196,35 H221 M587,35 H605 M44,501 H66 M758,760 H792 M870,760 H884 M912,760 H942 M761,943 H796 M906,943 H941 M178,1489 H192 M404,1489 H418"/>
-<path class="win" d="M213,17 H376 M213,22 H376 M213,27 H376 M213,15 V29 M376,15 V29"/>
-<path class="win" d="M602,17 H800 M602,22 H800 M602,27 H800 M602,15 V29 M800,15 V29"/>
-<path class="arc" d="M185,1505 V1280 M185,1280 A225,225 0 0 1 410,1505"/>
-<path class="arc" d="M564,1505 V1341 M564,1341 A164,164 0 0 1 728,1505"/>
-<path class="wo" d="M14,22 H213 M376,22 H602 M800,22 H947 V1505 H728 M564,1505 H410 M185,1505 H14 V22"/>
-<text class="rm" x="510" y="400">Kitchen/Dining</text>
-<text class="rm" x="376" y="1137">Living Room</text>
-<text class="sm" x="115" y="229">Laundry</text>
-<text class="sm" x="93" y="576">HVAC</text>
-<text class="cl" x="856" y="864">Closet</text>
+<rect class="fp" x="10" y="24" width="779" height="1240"/>
+<path class="w" d="M24,1229 V1266 M144,17 V283 M144,420 V490 M144,619 V643 M160,1241 V1283 M335,1239 V1284 M38,422 H140 M10,634 H516 M671,634 H728 M630,790 H663 M672,790 H798 M157,1245 H339"/>
+<path class="d" d="M140,306 V413 M148,306 V413 M140,490 V593 M148,490 V593 M537,630 H621 M537,638 H621 M638,669 V754 M646,669 V754"/>
+<path class="arc" d="M194,24 V140 M194,140 A116,116 0 0 0 310,24"/>
+<path class="win" d="M517,19 H665 M517,24 H665 M517,29 H665 M517,17 V31 M665,17 V31"/>
+<path class="win" d="M153,1259 H343 M153,1264 H343 M153,1269 H343 M153,1257 V1271 M343,1257 V1271"/>
+<path class="arc" d="M609,1264 V1145 M490,1264 A119,119 0 0 1 609,1145"/>
+<path class="w" d="M144,599 V633 M14,422 H157 M623,634 H794"/>
+<path class="st" d="M632,648 V665 M632,760 V785 M788,648 V785 M632,673 H788 M632,705 H788 M632,735 H788 M632,771 H788"/>
+<path class="st" d="M632,802 V1250 M788,802 V1250 M632,803 H788 M632,834 H788 M632,869 H788 M632,900 H788 M632,932 H788 M632,967 H788 M632,998 H788 M632,1030 H788 M632,1065 H788 M632,1096 H788 M632,1128 H788 M632,1163 H788 M632,1194 H788 M632,1226 H788"/>
+<path class="wo" d="M10,24 H194 M310,24 H517 M665,24 H789 V1264 H609 M490,1264 H343 M153,1264 H10 V24"/>
+<text class="rm" x="470" y="360">Kitchen/Dining</text>
+<text class="rm" x="340" y="1010">Living Room</text>
+<text class="sm" x="95" y="185">Laundry</text>
+<text class="sm" x="80" y="505">HVAC</text>
+<text class="cl" x="730" y="730">Closet</text>
 </svg>

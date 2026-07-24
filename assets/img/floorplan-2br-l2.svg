@@ -1,23 +1,29 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1011" height="1050" viewBox="0 0 1011 1050" preserveAspectRatio="xMidYMid meet" role="img" aria-label="Taneytown Village two-bedroom townhouse, upper level floor plan">
+<svg xmlns="http://www.w3.org/2000/svg" width="952" height="987" viewBox="0 0 952 987" preserveAspectRatio="xMidYMid meet" role="img" aria-label="Taneytown Village two-bedroom townhouse, upper level floor plan: two bedrooms, bathroom, hallway, and closets">
 <defs><style>
     .fp{fill:#FFFFFF}
     .w{fill:none;stroke:#2C3E2D;stroke-width:7;stroke-linecap:butt}
     .wo{fill:none;stroke:#2C3E2D;stroke-width:10;stroke-linecap:butt}
-    .d{fill:none;stroke:#7C9880;stroke-width:4;stroke-dasharray:5 6}
+    .d{fill:none;stroke:#7C9880;stroke-width:2.5;stroke-dasharray:5 6}
     .arc{fill:none;stroke:#5E7D63;stroke-width:3}
     .win{fill:none;stroke:#2C3E2D;stroke-width:2.5}
+    .st{fill:none;stroke:#2C3E2D;stroke-width:2.5}
     .rm{fill:#22331F;font-family:'Helvetica Neue',Arial,sans-serif;font-size:25px;font-style:italic;text-anchor:middle}
     .cl{fill:#4A5C4D;font-family:'Helvetica Neue',Arial,sans-serif;font-size:18px;font-style:italic;text-anchor:middle}
     .sm{fill:#4A5C4D;font-family:'Helvetica Neue',Arial,sans-serif;font-size:14px;font-style:italic;text-anchor:middle}
   </style></defs>
-<rect class="fp" x="28" y="28" width="953" height="992"/>
-<path class="w" d="M42,41 V61 M42,116 V493 M42,544 V953 M397,180 V229 M397,236 V363 M397,510 V535 M561,28 V45 M561,50 V187 M561,204 V373 M772,574 V1014 M394,199 H563 M408,368 H427 M542,368 H809 M52,522 H395 M408,522 H591 M712,522 H763 M28,535 H45 M48,535 H83 M104,535 H591 M712,535 H764"/>
-<path class="d" d="M42,64 V83 M42,514 V544 M397,32 V65 M397,299 V323 M397,360 V389 M397,508 V530 M561,47 V63 M772,458 V473 M772,522 V549 M772,554 V569 M392,368 H429 M946,368 H981 M29,522 H53 M378,522 H421 M570,522 H595 M734,522 H751 M35,535 H71 M102,535 H121 M761,535 H777"/>
-<path class="wo" d="M28,28 H981 V1020 H28 V28"/>
-<text class="rm" x="205" y="270">Bedroom</text>
-<text class="rm" x="330" y="755">Bedroom</text>
-<text class="rm" x="745" y="180">Bathroom</text>
-<text class="cl" x="680" y="445">Hallway</text>
-<text class="cl" x="485" y="125">Closet</text>
-<text class="cl" x="480" y="300">Closet</text>
+<rect class="fp" x="33" y="24" width="890" height="937"/>
+<path class="w" d="M374,168 V212 M374,222 V357 M374,476 V503 M535,24 V350 M723,494 V962 M371,187 H532 M385,345 H405 M510,345 H761 M31,497 H556 M672,497 H722"/>
+<path class="arc" d="M873,345 V240 M768,345 A105,105 0 0 1 873,240"/>
+<path class="arc" d="M374,453 H291 M374,370 A83,83 0 0 0 291,453"/>
+<path class="arc" d="M653,497 V582 M568,497 A85,85 0 0 0 653,582"/>
+<path class="d" d="M370,71 V156 M378,71 V156 M405,341 H510 M405,349 H510"/>
+<path class="w" d="M374,28 V66 M889,345 H923"/>
+<path class="st" d="M723,500 V945 M917,500 V945 M723,529 H917 M723,561 H917 M723,592 H917 M723,624 H917 M723,659 H917 M723,690 H917 M723,725 H917 M723,757 H917 M723,792 H917 M723,823 H917 M723,858 H917 M723,890 H917 M723,925 H917"/>
+<path class="wo" d="M33,24 H923 V961 H33 V24"/>
+<text class="rm" x="200" y="270">Bedroom</text>
+<text class="rm" x="330" y="760">Bedroom</text>
+<text class="rm" x="720" y="180">Bathroom</text>
+<text class="cl" x="600" y="430">Hallway</text>
+<text class="sm" x="452" y="125">Closet</text>
+<text class="sm" x="455" y="300">Closet</text>
 </svg>
