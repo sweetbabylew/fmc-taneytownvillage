@@ -11,15 +11,14 @@
     .cl{fill:#4A5C4D;font-family:'Helvetica Neue',Arial,sans-serif;font-size:18px;font-style:italic;text-anchor:middle}
     .sm{fill:#4A5C4D;font-family:'Helvetica Neue',Arial,sans-serif;font-size:14px;font-style:italic;text-anchor:middle}
   </style></defs>
-<rect class="fp" x="33" y="24" width="890" height="937"/>
-<path class="w" d="M374,168 V212 M374,222 V357 M374,476 V503 M535,24 V350 M723,494 V962 M371,187 H532 M385,345 H405 M510,345 H761 M31,497 H556 M672,497 H722"/>
-<path class="arc" d="M873,345 V240 M768,345 A105,105 0 0 1 873,240"/>
-<path class="arc" d="M374,453 H291 M374,370 A83,83 0 0 0 291,453"/>
-<path class="arc" d="M653,497 V582 M568,497 A85,85 0 0 0 653,582"/>
+<rect class="fp" x="33" y="29" width="890" height="932"/>
+<path class="w" d="M378,187 L535,187 M378,341 L406,341 M497,341 L766,341 M879,341 L923,341 M33,497 L556,497 M672,497 L723,497 L723,961 M374,29 L374,66 M374,476 L374,497 M378,160 L378,357 M535,29 L535,341"/>
+<path class="arc" d="M879,341 V228 M766,341 A113,113 0 0 1 879,228"/>
+<path class="arc" d="M376,476 H257 M376,357 A119,119 0 0 0 257,476"/>
+<path class="arc" d="M672,497 V613 M556,497 A116,116 0 0 0 672,613"/>
 <path class="d" d="M370,71 V156 M378,71 V156 M405,341 H510 M405,349 H510"/>
-<path class="w" d="M374,28 V66 M889,345 H923"/>
-<path class="st" d="M723,500 V945 M917,500 V945 M723,529 H917 M723,561 H917 M723,592 H917 M723,624 H917 M723,659 H917 M723,690 H917 M723,725 H917 M723,757 H917 M723,792 H917 M723,823 H917 M723,858 H917 M723,890 H917 M723,925 H917"/>
-<path class="wo" d="M33,24 H923 V961 H33 V24"/>
+<path class="st" d="M740,493 V961 M923,493 V961 M740,494 H923 M740,529 H923 M740,561 H923 M740,592 H923 M740,624 H923 M740,659 H923 M740,690 H923 M740,725 H923 M740,757 H923 M740,792 H923 M740,823 H923 M740,858 H923 M740,890 H923 M740,925 H923 M740,950 H923 M740,957 H923"/>
+<path class="wo" d="M33,29 H923 V961 H33 V29 H43"/>
 <text class="rm" x="200" y="270">Bedroom</text>
 <text class="rm" x="330" y="760">Bedroom</text>
 <text class="rm" x="720" y="180">Bathroom</text>
